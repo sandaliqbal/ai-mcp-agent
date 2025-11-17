@@ -46,5 +46,7 @@ python main.py
 
 ## 🙋 About
 
+```text
 Created by Sandal Iqbal
 References from @ShawhinT tutorials
+```
